@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bini Chand  
-- 👀 I’m passionate about exploring **Blockchain/Web3** technologies and how they’re shaping the future.  
-- 🌱 I’m currently learning everything interesting — especially around **decentralized systems**, **smart contracts**, and **cloud computing**.  
+- 👀 I’m passionate about exploring Cloud and web3 technologies and how they’re shaping the future.  
+- 🌱 I’m currently learning everything interesting — especially around decentralized system, smart contracts, and cloud computing.  
 - 💻 I’ve started diving into **AWS Cloud**, gaining hands-on experience with its core services.  
 - 💞️ I’m looking to collaborate on beginner-friendly **Blockchain**, **Web3**, or **Cloud-based** projects.  
 - 📫 Reach me at: [beanie.0412@gmail.com](mailto:beanie.0412@gmail.com)  
